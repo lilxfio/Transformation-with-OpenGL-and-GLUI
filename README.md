@@ -14,6 +14,7 @@ This project implements 3D viewing transformations using OpenGL and GLUI librari
 - [Configuration](#configuration)
 - [Examples](#examples)
 - [Troubleshooting](#troubleshooting)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## Features
@@ -103,6 +104,9 @@ Default configuration values can be adjusted in the `init_val()` function:
   Verify the near and far plane settings. Incorrect values can result in clipping or distortion.
 - **Compilation Errors**:
   Check the include paths for OpenGL, GLUT, and GLUI headers.
+
+## Contributors
+- [Fiordi Toska](#)
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
