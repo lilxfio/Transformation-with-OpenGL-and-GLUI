@@ -106,7 +106,7 @@ Default configuration values can be adjusted in the `init_val()` function:
   Check the include paths for OpenGL, GLUT, and GLUI headers.
 
 ## Contributors
-- [Fiordi Toska](#)
+- [Fiordi Toska]
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
