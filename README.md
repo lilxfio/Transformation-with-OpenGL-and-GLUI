@@ -2,7 +2,7 @@
 # Viewing Transformation with OpenGL and GLUI
 
 ## Introduction
-This project implements 3D viewing transformations using OpenGL and GLUI libraries. It features a graphical user interface (GUI) that allows users to apply and visualize transformations such as translation, scaling, rotation, and perspective projection on a 3D object (a cube). The project is an educational tool for understanding the basics of computer graphics transformations.
+This project implements 3D viewing transformations using OpenGL and GLUI libraries. It features a graphical user interface (GUI) that allows users to apply and visualize transformations such as translation, scaling, rotation, and perspective projection on a 3D object (a triangle). The project is an educational tool for understanding the basics of computer graphics transformations.
 
 ## Table of Contents
 - [Introduction](#introduction)
