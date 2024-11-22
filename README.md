@@ -110,5 +110,5 @@ Default configuration values can be adjusted in the `init_val()` function:
 
 ## License
 This project is licensed under the [MIT License](LICENSE.txt).
-
-
+---
+Feel free to contribute or report issues. Happy coding!
