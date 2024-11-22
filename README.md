@@ -109,4 +109,6 @@ Default configuration values can be adjusted in the `init_val()` function:
 - **Fiordi Toska** - Project Developer
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the [MIT License](LICENSE.txt).
+
+
